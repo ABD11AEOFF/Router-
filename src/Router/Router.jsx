@@ -2,8 +2,9 @@ import { createBrowserRouter } from "react-router-dom";
 import Home from "../pages/Home";
 import Users from "../pages/Users";
 import Posts from "../pages/Posts";
-import Post from "../pages/past";
+
 import Comments from "../pages/Components";
+import Post from "../pages/Past";
 
 
 
